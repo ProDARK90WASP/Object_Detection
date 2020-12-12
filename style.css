@@ -1,0 +1,25 @@
+
+#heading
+{
+font-size: 60px;
+width: 100%;
+margin: 0px;
+background-color: black;
+color: white;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Chewy', cursive;
+}
+canvas{
+    border: 10px dashed orangered;
+    border-radius: 20px;
+}
